@@ -1,3 +1,0 @@
-fileslist.txt
-Helloworld.sh
-vairable_bash.sh
