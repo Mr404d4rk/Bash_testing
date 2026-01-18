@@ -1,0 +1,11 @@
+fileslist2.txt
+fileslist.txt
+Helloworld.sh
+id_data.txt
+test.txt
+vairable_bash.sh
+uid=1000(mr404d4rk) gid=1000(mr404d4rk) groups=1000(mr404d4rk),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
+Append Text id
+uid=1000(mr404d4rk) gid=1000(mr404d4rk) groups=1000(mr404d4rk),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
+uid=1000(mr404d4rk) gid=1000(mr404d4rk) groups=1000(mr404d4rk),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
+uid=1000(mr404d4rk) gid=1000(mr404d4rk) groups=1000(mr404d4rk),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
